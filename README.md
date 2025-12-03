@@ -51,25 +51,12 @@ I focus on writing clean, scalable code using modern Python frameworks.
       </ul>
     </td>
     <td width="35%">
-       <img src="
-         https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpjMzI4eHh6aDlzNmgzM2Nxa2VuOWhvamZqem41OHhnN3RrZHJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" 
+       <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpjMzI4eHh6aDlzNmgzM2Nxa2VuOWhvamZqem41OHhnN3RrZHJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif
          width="100%" alt="Coding">
     </td>
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-
-</div>
-
----
 
 ## 📚 Current Projects
 
