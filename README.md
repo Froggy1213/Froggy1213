@@ -1,61 +1,86 @@
+<div align="center">
+
 # 👋 Hi, I'm Adi
 
-###  Aspiring Backend Developer | IT Student in Tokyo | Django & FastAPI Builder
+### 🇯🇵 Aspiring Backend Developer | IT Student in Tokyo
 
-I'm an international IT student in Tokyo, focused on backend development, DevOps fundamentals, and creating real-world products. I build fast, clean, and scalable applications — and I'm working toward freelancing, internships, and growing my online presence.
+<img src="https://i.pinimg.com/originals/1e/37/0e/1e370e599b80b7211e86337180376cc6.gif" width="100%" style="border-radius: 10px;" alt="Tokyo Landscape" />
+
+<br/>
+
+> *"Focused on backend development, DevOps fundamentals, and creating real-world products."*
+
+<br/>
+
+<a href="mailto:minimausnik@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+<a href="https://www.linkedin.com/in/iusupov-adilet-30275a365/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
-### **Backend Development**
+I focus on writing clean, scalable code using modern Python frameworks.
 
-* Python— main programming language
-* FastAPI — high-performance APIs
-* Django
+<div align="center">
 
-### **Frontend & UI**
+| Backend | Frontend | DevOps & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,django,fastapi" /> | <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postgres" /> |
 
-* JavaScript
-* Tailwindcss
-
-### **DevOps & Deployment**
-
-* AWS
+</div>
 
 ---
 
 ## 🔥 About Me
 
-* 📍 IT student living in **Tokyo, Japan**
-* 🎯 Currently learning **Django**, **FastAPI**, **Docker**, and **AWS**
-* 🧭 Goals: become freelance-ready, create digital products, and reach **$10k/month** in income
-* 🚀 Working hard on Japanese — aiming for **JLPT N1**
-* 🧠 Outside coding: cycling, reading, journaling, and personal growth
-* 🏔️ Inspired by ambition, discipline, and great achievers like **Alexander the Great**
+<table>
+  <tr>
+    <td valign="center">
+      <ul>
+        <li>📍 <b>Base:</b> IT student living in <b>Tokyo, Japan</b>.</li>
+        <li>🎯 <b>Goals:</b> Reach <b>$10k/month</b>, master CI/CD, and become freelance-ready.</li>
+        <li>🗣️ <b>Languages:</b> English, Russian, Japanese (Aiming for <b>JLPT N1</b>).</li>
+        <li>🧠 <b>Interests:</b> Cycling, Journaling, History (<i>Alexander the Great</i> fan).</li>
+        <li>💻 <b>Currently Learning:</b> Advanced Docker patterns & AWS Infrastructure.</li>
+      </ul>
+    </td>
+    <td width="35%">
+       <img src="
+         https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpjMzI4eHh6aDlzNmgzM2Nxa2VuOWhvamZqem41OHhnN3RrZHJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" 
+         width="100%" alt="Coding">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+
+</div>
 
 ---
 
 ## 📚 Current Projects
 
-* **Focus Timer Web App (Django + JS)** — login system, tracking, analytics
-* **Personal Blog Platform** — sharing progress & lessons
-* **Portfolio Website (FastAPI + VPS)** — full deployment pipeline & Linux configuration
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **⏱️ Focus Timer** | `Django` `JS` `Postgres` | *In Development* — Login system & productivity analytics. |
+| **🌏 Personal Blog** | `FastAPI` `Jinja2` | *Active* — Sharing progress & lessons learned. |
+| **💼 Portfolio v1** | `FastAPI` `Linux` `VPS` | *Live* — Full deployment pipeline on self-hosted VPS. |
 
 ---
 
-## 📈 2026 Goals
-
-* ⚡ Become ready for freelance / part-time programming jobs
-* ☁️ Master Docker, CI/CD, and AWS basics
-* 🧑‍💻 Build polished, real-world applications
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you want to collaborate or connect!
-
----
-
-✨ *Thanks for stopping by — more projects coming soon!*
+<div align="center">
+  <p>✨ <i>Thanks for stopping by! Always open to collaboration.</i> ✨</p>
+</div>
