@@ -44,10 +44,9 @@ I focus on writing clean, scalable code using modern Python frameworks.
     <td valign="center">
       <ul>
         <li>📍 <b>Base:</b> IT student living in <b>Tokyo, Japan</b>.</li>
-        <li>🎯 <b>Goals:</b> Reach <b>$10k/month</b>, master CI/CD, and become freelance-ready.</li>
         <li>🗣️ <b>Languages:</b> English, Russian, Japanese (Aiming for <b>JLPT N1</b>).</li>
         <li>🧠 <b>Interests:</b> Cycling, Journaling, History (<i>Alexander the Great</i> fan).</li>
-        <li>💻 <b>Currently Learning:</b> Advanced Docker patterns & AWS Infrastructure.</li>
+        <li>💻 <b>Currently Learning:</b> Advanced Docker patterns & AWS Infrastructure & FastAPI</li>
       </ul>
     </td>
     <td width="35%">
