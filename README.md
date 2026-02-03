@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Adi
+# Hi, I'm Adi
 
-### 🇯🇵 Aspiring Backend Developer | IT Student in Tokyo
-
-<img src="https://i.pinimg.com/originals/1e/37/0e/1e370e599b80b7211e86337180376cc6.gif" width="100%" style="border-radius: 10px;" alt="Tokyo Landscape" />
+### Backend Developer | IT Student in Tokyo 
 
 <br/>
 
@@ -34,7 +32,7 @@ I focus on writing clean, scalable code using modern Python frameworks and am cu
 
 | **Backend** | **Infrastructure & DevOps** | **Core Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,django,fastapi,java" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" /> | <img src="https://skillicons.dev/icons?i=git,postgres,redis,postman" /> |
+| <img src="https://skillicons.dev/icons?i=python,django,fastapi,go" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" /> | <img src="https://skillicons.dev/icons?i=git,postgres,redis,postman" /> |
 
 </div>
 
@@ -47,9 +45,9 @@ I focus on writing clean, scalable code using modern Python frameworks and am cu
     <td valign="center">
       <ul>
         <li>📍 <b>Base:</b> IT student living in <b>Tokyo, Japan</b>.</li>
-        <li>🗣️ <b>Languages:</b> English, Russian, Japanese (Aiming for <b>JLPT N1</b>).</li>
-        <li>📸 <b>Hobbies:</b> Analog Photography (Canon AE-1), Cycling, History.</li>
-        <li>💻 <b>Currently Learning:</b> Java (Spring Boot), Advanced Docker patterns & AWS.</li>
+        <li>🗣️ <b>Languages:</b> English, Russian, Japanese .</li>
+        <li>📸 <b>Hobbies:</b> Photography, Cycling, History.</li>
+        <li>💻 <b>Currently Learning:</b> Go, Advanced Docker patterns & AWS, AI.</li>
       </ul>
     </td>
     <td width="35%">
@@ -63,7 +61,7 @@ I focus on writing clean, scalable code using modern Python frameworks and am cu
 | Project | Stack | Status |
 | :--- | :--- | :--- |
 | **🤖 Marketplace Sniper Bot** | `Python` `SQLAlchemy` `Telegram API` | *Live* — Real-time parser for Japanese markets with instant alerts. |
-| **🌏 Personal Blog** | `FastAPI` `Jinja2` `SQLite` | *Active* — Sharing progress & lessons learned. |
+| **🌏 Line News Bot** | `FastAPI` `Line Api` `SQLAlchemy` | *Active* — Sharing progress & lessons learned. |
 | **💼 Portfolio v1** | `FastAPI` `Linux` `VPS` | *Deployed* — Hosted on self-managed VPS at **adiletyu.com**. |
 
 ---
