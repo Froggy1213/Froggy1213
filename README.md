@@ -2,11 +2,11 @@
 
 # Hi, I'm Adi
 
-### Backend Developer | IT Student in Tokyo 
+### Backend Engineer 
 
 <br/>
 
-> *"Focused on backend development, DevOps fundamentals, and creating real-world products."*
+> *"Architecting scalable APIs and distributed systems with Go and Python."*
 
 <br/>
 
@@ -19,35 +19,39 @@
 <a href="https://www.linkedin.com/in/iusupov-adilet-30275a365/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Paiza-Rank%20A-f0ad4e?style=for-the-badge" alt="Paiza Rank A" />
+</a>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+##  Tech Stack & Arsenal
 
-I focus on writing clean, scalable code using modern Python frameworks and am currently expanding into the Java ecosystem.
+I focus on building high-performance backend services using **Go** and modern **Python** (FastAPI).
 
 <div align="center">
 
-| **Backend** | **Infrastructure & DevOps** | **Core Tools** |
+| **Core Backend** | **Infrastructure & Cloud** | **Data & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,django,fastapi,go" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" /> | <img src="https://skillicons.dev/icons?i=git,postgres,redis,postman" /> |
+| <img src="https://skillicons.dev/icons?i=go,fastapi,python,django" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,k8s" /> | <img src="https://skillicons.dev/icons?i=postgres,redis,git,postman" /> |
 
 </div>
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 <table>
   <tr>
     <td valign="center">
       <ul>
-        <li>📍 <b>Base:</b> IT student living in <b>Tokyo, Japan</b>.</li>
-        <li>🗣️ <b>Languages:</b> English, Russian, Japanese .</li>
-        <li>📸 <b>Hobbies:</b> Photography, Cycling, History.</li>
-        <li>💻 <b>Currently Learning:</b> Go, Advanced Docker patterns & AWS, AI.</li>
+        <li> <b>Base:</b> IT student based in <b>Tokyo, Japan</b>.</li>
+        <li> <b>Languages:</b> English, Russian, Japanese.</li>
+        <li> <b>Skills:</b> <b>Paiza Rank A</b> | High-load Systems.</li>
+        <li> <b>Currently Learning:</b> Advanced Go Concurrency, Microservices patterns, gRPC.</li>
+        <li> <b>Hobbies:</b> Photography, Cycling, History.</li>
       </ul>
     </td>
     <td width="35%">
@@ -56,16 +60,16 @@ I focus on writing clean, scalable code using modern Python frameworks and am cu
   </tr>
 </table>
 
-## 📚 Featured Projects
+##  Featured Projects
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
-| **🤖 Marketplace Sniper Bot** | `Python` `SQLAlchemy` `Telegram API` | *Live* — Real-time parser for Japanese markets with instant alerts. |
-| **🌏 Line News Bot** | `FastAPI` `Line Api` `SQLAlchemy` | *Active* — Sharing progress & lessons learned. |
-| **💼 Portfolio v1** | `FastAPI` `Linux` `VPS` | *Deployed* — Hosted on self-managed VPS at **adiletyu.com**. |
+| ** Marketplace Sniper Bot** | `Go` `FastAPI` `PostgreSQL` | *Live* — High-speed parser for JP markets with microsecond latency alerts. |
+| ** Line News Bot** | `FastAPI` `Line API` `SQLAlchemy` | *Active* — Automated news aggregation service. |
+| ** Portfolio v1** | `FastAPI` `Docker` `Nginx` | *Deployed* — Self-hosted on VPS at **adiletyu.com**. |
 
 ---
 
 <div align="center">
-  <p>✨ <i>Thanks for stopping by! Always open to collaboration.</i> ✨</p>
+  <p> <i>Open to Backend roles (Go/Python) in Tokyo. Let's build something great!</i> </p>
 </div>
