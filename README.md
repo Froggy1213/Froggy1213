@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adi
-
-### Backend Engineer 
+#  Adilet | Backend Engeneer 
 
 <br/>
 
